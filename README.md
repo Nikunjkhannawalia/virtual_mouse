@@ -1,4 +1,4 @@
-# Hello everyone
+# Hello everyone!
 This is a virtual mouse based made on python 3.11
 It consist of two part hand_detector.py and virtual_mouse.py
 First part consist of hand detection module which consist of various function like detction of position of finger, dietance between them and many more.
